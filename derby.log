@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 30 23:14:04 AEDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0159-ef4b-e1d1-000006286750 
+on database directory memory:/Users/jackyzhu/projects/maven-project/muleEmbeddedDB with class loader org.mule.module.launcher.MuleApplicationClassLoader[maven-project]@6eaa21d8 
+Loaded from file:/Users/jackyzhu/projects/.mule/apps/maven-project/lib/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_102-b14
+user.dir=/Users/jackyzhu/projects/maven-project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
